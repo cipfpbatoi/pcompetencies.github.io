@@ -1,0 +1,9 @@
+{
+    "cSpell.language": "ca",
+    "markdown.extension.toc.levels": "2..4",
+    "markdown.extension.toc.orderedList": false,
+    "markdown.extension.toc.unorderedList.marker": "*",
+    "markdown.styles": [
+        "md_css/md_screen.css"
+    ]
+}
