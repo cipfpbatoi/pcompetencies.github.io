@@ -4,8 +4,8 @@ Manual d'usuari per a la **Aplicació per a la Gestió de les Programacions del 
 
 * [1. Accés a la Plataforma](#1-accés-a-la-plataforma)
 * [2. Dintre de l'aplicació](#2-dintre-de-laplicació)
-* [Panell Esquerre](#panell-esquerre)
-* [Panell Dret](#panell-dret)
+  * [2.1. Panell Esquerre](#21-panell-esquerre)
+  * [2.2. Panell Dret](#22-panell-dret)
 
 ## 1. Accés a la Plataforma
 
@@ -25,7 +25,7 @@ Depenent del tamany inicial i del vostre usuari, veureu diferents coses. Per a t
 
 Principalment es tracta d'un CRUD (Create - Read - Update - Delete). Al panell **esquerre**, que és proporcionalment més xicotet que l'àrea principal, es mostren tots els ítems que podem modificar. A l'**àrea principal**, veurem el contingut relacionat amb l'ítem seleccionat, sobre el qual podrem treballar.
 
-## Panell Esquerre
+### 2.1. Panell Esquerre
 
 ![Panell Esquerre](./md_media/panel_izquierdo.png)
 
@@ -34,7 +34,7 @@ Tal com podem observar en aquest panell, podem navegar per les diferente àares 
 1. **Cicles**: Aquesta secció ens permet treballar amb els cicles incloent informació important com família professional, Real Decret que el regula, etc.
 2. **Mòduls**: Una vegada definitis els cicles, podem crear els mòduls i establir els resultats d'aprenentatge i els continguts per a cadascun d'ells.
 
-## Panell Dret
+### 2.2. Panell Dret
 
 Les seccions **Cicles** i **Mòduls** tenen pràcticament els mateixos elements de navegació, a continuació s'adjunta una captura de pantalla que ens permetrà explicar les operacions comuns que podem fer en cadascun dels panells:
 
