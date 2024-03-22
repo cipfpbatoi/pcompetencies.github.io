@@ -6,6 +6,7 @@ Manual d'usuari per a la **Aplicació per a la Gestió de les Programacions del 
 * [2. Dintre de l'aplicació](#2-dintre-de-laplicació)
   * [2.1. Panell Esquerre](#21-panell-esquerre)
   * [2.2. Panell Dret](#22-panell-dret)
+* [3. Cicles](#3-cicles)
 
 ## 1. Accés a la Plataforma
 
@@ -45,3 +46,20 @@ Les seccions **Cicles** i **Mòduls** tenen pràcticament els mateixos elements 
 3. **Filtres i Crear**: El primer ens permet filtrar per qualsevol dels camps que es mostren (Aquesta característica està en desenvolupament). D'aquesta manera sols veurem els registres que coincideixen amb el filtre que hem definit. En funció dels nostres privilegis veurem un botó per a crear nous elements, per exemple cicles o mòduls. 
 4. **Ordenació**: Aquestes fletxes ens permiteixen ordenar els registres mostrats pel camp elegit, de manera alfabètica de forma ascendent o descendent.
 5. **Més Opcions** Aquests tres punts ens permiteixen treballar en el registre en concret i realitzar operacions sobre ell.
+
+## 3. Cicles
+
+Quan seleccionem l'opció **Cicles** se'ns mostra la següent informació:
+
+![Cicles Informática](./md_media/seccio_cicles_informatica.jpeg)
+
+Aquest panell ens permet crear nous cicles i actualitzar tota la informació necessària respecte a ells. Ara, en la última versió, quan accedim sols sens mostren els cicles del **nostre departament**.
+
+Quina informació podem veure?:
+
+1. **Nom curt** Nom curt del cicle, inclou si es un cicle formatiu de grau superior, Inicials del cicle i legislació per a diferenciar si es tracta d'un cicle LOE o LOGSE, per exemple: En el cas del: *Cicle Formatiu de Desenrotllament d'aplicacions Multiplataforma* el nom curt seria: **CFS DAM (LOE)**
+2. **Nom Complet** Nom tal com ve en el Reial decret que el defineix.
+3. **Real Decret de títol** Real decret en el que es defineix el títol.
+4. **Ordre de Currículum** Si hi ha Ordre de la Generalitat Valenciana que concrete el currículum de la titulació definida pel real decret.
+5. **Actualització del Real Decret de títol (Si Existeix)** Si hi ha cap actualització del títol, estaria a aquest apartat.
+6. **Departament** Departament al que pertany el títol.
