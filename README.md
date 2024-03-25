@@ -51,11 +51,11 @@ Les seccions **Cicles** i **Mòduls** tenen pràcticament els mateixos elements 
 
 Quan seleccionem l'opció **Cicles** se'ns mostra la següent informació:
 
-![Cicles Informática](./md_media/seccio_cicles_informatica.jpeg)
+![Cicles Informàtica](./md_media/seccio_cicles_informatica.jpeg)
 
 Aquest panell ens permet crear nous cicles i actualitzar tota la informació necessària respecte a ells. Ara, en la última versió, quan accedim sols sens mostren els cicles del **nostre departament**.
 
-Quina informació podem veure?:
+Quina informació del cicle podem veure?:
 
 1. **Nom curt** Nom curt del cicle, inclou si es un cicle formatiu de grau superior, Inicials del cicle i legislació per a diferenciar si es tracta d'un cicle LOE o LOGSE, per exemple: En el cas del: *Cicle Formatiu de Desenrotllament d'aplicacions Multiplataforma* el nom curt seria: **CFS DAM (LOE)**
 2. **Nom Complet** Nom tal com ve en el Reial decret que el defineix.
@@ -63,3 +63,14 @@ Quina informació podem veure?:
 4. **Ordre de Currículum** Si hi ha Ordre de la Generalitat Valenciana que concrete el currículum de la titulació definida pel real decret.
 5. **Actualització del Real Decret de títol (Si Existeix)** Si hi ha cap actualització del títol, estaria a aquest apartat.
 6. **Departament** Departament al que pertany el títol.
+
+Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcions les podem veure dalt a la detra, just baix del nostre identificador)
+
+![Opcions a la pantalla principal dels cicles](./md_media/seccio_cicles_opcions.png "Filtros i crear cicles")
+
+* Opció **Filtros**: Actualment ens permeteix filtrar pels camps *Nom Curt* i *Nom Complet* del cicle per a que ens siga més fàcil buscar l'opció en la que volem treballar.
+* Opció **Crear Cicles**: Quan prenem aquest botó ens mostra el panell per a crear cicles que es descriurà posteriorment.
+* Opció **...**: Al polsar el aquest botó sens mostren dos noves opcions:
+  * **Ver**: En permet visualitzar tota la informació del cicle **incloent els mòduls professionals donats d'alta** a l'aplicació i hiperenllaçats, de forma que si polsem dins d'aquest ens durà al panell de visualització del mòdul professional. En aquest panell, dalt a la dreta, tenim dues noves opcions que ens permeten **Volver al listado** en el que es mostren tots els móduls o **Modificar** la informació relativa a la identificació del cicle formatiu.
+  * Opció **Modificar**: Ens permet modificar la informació de identificació del cicle. Dal a la dreta, tenim opcions per a **Guardar i seguir editando** amb el desariem els canvis i seguiriem editant i per a **Guardar Cambios** amb el que desariem els canvis i tancariem el panell d'edició tornant al llistat de cicles.
+
