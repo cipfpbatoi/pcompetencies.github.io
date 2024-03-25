@@ -89,7 +89,16 @@ Per a crear cicles hem de premer el botó **Crear Cicles** i sens mostrarà un p
 
 1. **Nom Curt**: Nom curt del cicle en majúscules, cal utilitzar la següent nomenclatura:
    1. **CF** (Abreviatura de Cicle Formatiu) o **CE** (Curs d'especialització) seguit de **M** o **S** en cas de que en funció de si es tracta d'un Cicle Formatiu de Grau Mig o d'un Superior.
-   2. Nom abreviat del cicle formatiu. Depenent de l'especialitat, s'utilitza una nomenclatura o un altra, per exemple, el nom abreviat del cicle formatiu *Desenrotllament d'Aplicacions Multiplataforma* sera **DAM**
-   3. Entre parèntesi si es tracta d'un cicle formatiu establit en legislació LOE **(LOE)** o LOGSE **(LOGSE)**.
+   2. **Nom abreviat del cicle formatiu**. Depenent de l'especialitat, s'utilitza una nomenclatura o un altra, per exemple, el nom abreviat del cicle formatiu *Desenrotllament d'Aplicacions Multiplataforma* sera **DAM**
+   3. Legislació que el: Entre parèntesi si es tracta d'un cicle formatiu establit en legislació LOE o LOGSE.
    4. Exemple d'utilització: En el cas del *Tècnic en Cures auxiliar d'Infermeria* seria **CFM CAE (LOGSE)**. Per al cas de *Tècnic en Farmàcia i Parafarmàcia* seria: **CFM FARMACIA (LOE)** i per al cas del *Curs d'Especialització en Ciberseguretat en Entorns de les Tecnologies de la Informació* seria **CE CIBERSEGURETAT**
 2. **Nom Complet** Nom complet del títol en majúscules, en el cas del cicle formatiu de grau superior de Desenrotllament d'Aplicacions Multiplataforma el nom seria: **TÈCNIC SUPERIOR EN DESENROTLLAMENT D'APLICACIONS MULTIPLATAFORMA**
+3. **Real Decret del títol**: Es recomana utilitzar l'Identificador del Real Decret del titol que estableix el títol. El format a Utilitzar serà: `codi/any (BOE dd/mm/yyyy)` si no es possible sempre es pot afegir o modificar la informació que el departament identifique correctament la titolació. **Per exemple**: per al cicle de *CFM GESTIÓ ADMVA. (LOE)* seria **1631/2009 (BOE 1/12/2009)**
+4. **Ordre del Currículum**: L'ordre o el document autonòmic si hi ha que concrete el títol per a la nostra comunitat. El format a utilitzar serà: `Ordre/Decret codi/any, de <dia> de <mes> (DOGV dd/mm/yyyy)`. En Qualsevol cas i depenent de la titolació de la que es tracte, sempre es podrà decidir si utilitzar una nomenclatura diferent si er al cicle en concret te sentit fer-ho d'una altra manera. **Per Example**: per al cilce *CFM ESTÈTICA I BELL. (LOE)* seria **Decret 158/2017, de 6 d'octubre (DOGV 20/10/2017)**
+5. **Actualització del Real Decret de títol (Sí Existeix)**: En cas que a nivell estatal s'haja realitzat alguna actualització del títol, es necessari escriure introduir la referència del RealDecret on s'haja realitzat en aquest camp. Es sugereix aquesta manera d'intentificar-lo: `RD codi/any (BOE dd/mm/yyyy)`. Per exemple, en el cas de el cicle formatiu *CFM GESTIÓ ADMVA. (LOE)* seria: `RD 1126/2010 (BOE 11/09/2010)`
+6. **Descripció (Opcional)**: Camp de text que ens permet introduir lliurement una descripció del cicle.
+7. **Departament**: Desplegable que ens permet seleccionar el departament al que pertany el cicle.
+
+A continuació es mostra per cicle formatiu de Desenrotllament d'Aplicacions Web com quedaria:
+
+![Cicle Nou Ple](./md_media/cicle_nou_omplit.png "Cicle nou amb tots els camps plens per a que els companys es facen una idea")
