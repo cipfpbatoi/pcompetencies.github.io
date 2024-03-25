@@ -86,3 +86,9 @@ Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcion
 Per a crear cicles hem de premer el botó **Crear Cicles** i sens mostrarà un panell on hem d'emplenar els següents camps:
 
 ![Creació d'un cicle nou](md\_media/cicle\_nou.png)
+
+1. **Nom Curt**: Nom curt del cicle en majúscules, cal utilitzar la següent nomenclatura:
+   1. **CF** (Abreviatura de Cicle Formatiu) o **CE** (Curs d'especialització) seguit de **M** o **S** en cas de que en funció de si es tracta d'un Cicle Formatiu de Grau Mig o d'un Superior.
+   2. Nom abreviat del cicle formatiu. Depenent de l'especialitat, s'utilitza una nomenclatura o un altra, per exemple, el nom abreviat del cicle formatiu *Desenrotllament d'Aplicacions Multiplataforma* sera **DAM**
+   3. Entre parèntesi si es tracta d'un cicle formatiu establit en legislació LOE **(LOE)** o LOGSE **(LOGSE)**.
+   4. Exemple d'utilització: En el cas del *Tècnic en Cures auxiliar d'Infermeria* seria **CFM CAE (LOGSE)**. Per al cas de *Tècnic en Farmàcia i Parafarmàcia* seria: **CFM FARMACIA (LOE)** i per al cas del *Curs d'Especialització en Ciberseguretat en Entorns de les Tecnologies de la Informació* seria **CE CIBERSEGURETAT**
