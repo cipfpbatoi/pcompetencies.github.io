@@ -7,6 +7,7 @@ Manual d'usuari per a la **Aplicació per a la Gestió de les Programacions del 
   * [2.1. Panell Esquerre](#21-panell-esquerre)
   * [2.2. Panell Dret](#22-panell-dret)
 * [3. Cicles](#3-cicles)
+  * [3.1. Crear Cicles](#31-crear-cicles)
 
 ## 1. Accés a la Plataforma
 
@@ -34,7 +35,7 @@ Tal com podem observar en aquest panell, podem navegar per les diferents àrees 
 
 1. **Cicles**: Aquesta secció ens permet treballar amb els cicles incloent informació important com família professional, Real Decret que el regula, etc.
 2. **Mòduls**: Una vegada definitis els cicles, podem crear els mòduls i establir els resultats d'aprenentatge i els continguts per a cadascun d'ells.
-
+>
 ### 2.2. Panell Dret
 
 Les seccions **Cicles** i **Mòduls** tenen pràcticament els mateixos elements de navegació, a continuació s'adjunta una captura de pantalla que ens permetrà explicar les operacions comuns que podem fer en cadascun dels panells:
@@ -43,7 +44,7 @@ Les seccions **Cicles** i **Mòduls** tenen pràcticament els mateixos elements 
 
 1. **Cercador**: Ens permet realitzar recerques a la secció a la que ens trobem per a facilitar-nos trobar el item amb que vulguem treballar.
 2. **Usuari**: Ens permet tancar la sessió si fem clic a l'usuari. L'enganatge en canvi, ens permet alternar entre el tema fosc i el tema clar.
-3. **Filtres i Crear**: El primer ens permet filtrar per qualsevol dels camps que es mostren (Aquesta característica està en desenvolupament). D'aquesta manera sols veurem els registres que coincideixen amb el filtre que hem definit. En funció dels nostres privilegis veurem un botó per a crear nous elements, per exemple cicles o mòduls.
+3. **Filtres i Crear**: El primer ens permet filtrar per qualsevol dels camps que es mostren (Aquesta característica està en desenvolupament). D'aquesta manera s>ols veurem els registres que coincideixen amb el filtre que hem definit. En funció dels nostres privilegis veurem un botó per a crear nous elements, per exemple cicles o mòduls.
 4. **Ordenació**: Aquestes fletxes ens permiteixen ordenar els registres mostrats pel camp elegit, de manera alfabètica de forma ascendent o descendent.
 5. **Més Opcions** Aquests tres punts ens permiteixen treballar en el registre en concret i realitzar operacions sobre ell.
 
@@ -73,3 +74,9 @@ Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcion
 * Opció **...**: Al polsar el aquest botó sens mostren dos noves opcions:
   * **Ver**: En permet visualitzar tota la informació del cicle **incloent els mòduls professionals donats d'alta** a l'aplicació i hiperenllaçats, de forma que si polsem dins d'aquest ens durà al panell de visualització del mòdul professional. En aquest panell, dalt a la dreta, tenim dues noves opcions que ens permeten **Volver al listado** en el que es mostren tots els mòduls o **Modificar** la informació relativa a la identificació del cicle formatiu.
   * Opció **Modificar**: Ens permet modificar la informació de identificació del cicle. Dal a la dreta, tenim opcions per a **Guardar i seguir editando** amb el desariem els canvis i seguiriem editant i per a **Guardar Cambios** amb el que desariem els canvis i tancariem el panell d'edició tornant al llistat de cicles.
+
+### 3.1. Crear Cicles
+
+Per a crear cicles hem de premer el botó **Crear Cicles** i sens mostrarà un panell on hem d'emplenar els següents camps:
+
+![Creació d'un cicle nou](./md_media/cicle_nou.png "Camps per a crear un cicle nou")
