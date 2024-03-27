@@ -83,7 +83,7 @@ Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcion
 
 ### 3.1. Crear Cicles
 
-Per a crear cicles hem de premer el botó **Crear Cicles** i sens mostrarà un panell on hem d'emplenar els següents camps:
+Per a crear cicles hem de premer el botó **Crear Cicles** i se'ns mostrarà un panell on hem d'emplenar els següents camps:
 
 ![Creació d'un cicle nou](md\_media/cicle\_nou.png)
 
@@ -102,3 +102,33 @@ Per a crear cicles hem de premer el botó **Crear Cicles** i sens mostrarà un p
 A continuació es mostra per cicle formatiu de Desenrotllament d'Aplicacions Web com quedaria:
 
 ![Cicle Nou Ple](./md_media/cicle_nou_omplit.png "Cicle nou amb tots els camps plens per a que els companys es facen una idea")
+
+Una vegada estem conformes en com queda tota la informació, tenim dues opcions:
+
+![Opcions després de crear un cicle](./md_media/cicle_nou_desar.png "Opcions per al professorat")
+
+1. El podem crear i introduir-ne un altre
+2. Desar i tancar
+
+Una vegada l'hem creat, i hem polsat en `Guardar` que ens ha tancat la finestra, el veurem a llista, si no, el buscarem mitjançant, per exemple, els filtres.
+
+Ara es moment de veure com el podem moficar i com es pot treballar amb el **objectius associats al títol**
+
+### 3.2. Modificar els cicles
+
+Una vegada hem creat el fitxer podem modificar-lo per fent clic al botó **...** que es troba a la dreta del tot de cada entrada de cada títol:
+
+[Editar Titolació](./md_media/cicle_editar.png "... per a editar")
+
+amb el que se'ns mostraran dues opcions:
+
+1. **Visualitzar**: Ens mostrarà informació general del títol, incloent els mòduls professionals (en cas de que els hagem afegit en l'apartat) i els objectius dels cicle ( que s'afegeixen mitjançant l'opció modificar).
+2. **Modificar**: Ens permet modificar el titol i també podem afegir els Objectius d'aprenentatge.
+
+En la següent imatge podem veure un exemple del resultat de polsar al botó **Visualitzar**, baix de tot de la imatge 
+
+[Cicle amb dos objectius](./md_media/cicle_visualitzar.png)
+
+### 3.3. Crear i Modifiar Objectius del titol
+
+Quan volem afegir un objectiu, hem de fer clic al botó **Modificar** per accedir a les opcions que ens permeten, a més de modificar totes les opcions vistes anteriorment, **afegir i editar objectius** ( També se'ns mostra l'opció **Modificar** dalt a la dreta quan estem visualitzant una titolació)
