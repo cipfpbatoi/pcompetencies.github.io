@@ -144,5 +144,14 @@ Per a afegir un objectiu, hem de fer clic en el botó **Afegir un element** i se
 
 ![Objectiu nou](./md_media/cicle_objectius_introduccio.png)
 
-Aquest objectiu el podem veure al Reial Decret que regula el nostre títol i que podem consultar en la web del BOE. Per exemple, en el cas del cicle formatiu de Desenrotllament d'Aplicacions Multiplataforma, aniriem a a web <https://todofp.es/que-estudiar/loe.html> buscariem la família professional *Informàtica i Comunicacions* i clicaríem en el cicle formatiu de *Desenrotllament d'Aplicacions Multiplataforma* i aniríem a la secció de **BOE** on trobaríem els objectius del cicle. (A titolacions LOE capítol III, article 9) - Si hi ha cap actualització deuriem d'utilitzar eixa per als objectius.
+Aquest objectiu el podem veure al Reial Decret que regula el nostre títol i que podem consultar en la web del BOE. Per exemple, en el cas del cicle formatiu de Desenrotllament d'Aplicacions Multiplataforma (DAM), aniriem a a web <https://todofp.es/que-estudiar/loe.html> buscariem la família professional *Informàtica i Comunicacions* i clicaríem en el cicle formatiu de *Desenrotllament d'Aplicacions Multiplataforma* i aniríem a la secció de **BOE** on trobaríem els objectius del cicle. (A titolacions LOE capítol III, article 9) - Si hi ha cap actualització deuriem d'utilitzar eixa per als objectius. 
 
+En el cas de DAM existeix una actualització del títol: Real Decreto 405/2023, de 29 de mayo, per tant, hem de buscar els objectius açí si es troben, en lloc del reial decret original.
+
+A continuació es mostra part de la definició dels objectius del cicle formatiu de DAM:
+
+![Objectius DAM](./md_media/cicle_objectius_reial_decret.png)
+
+Per tant, per a la primera entrada: *a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos* el codi seria **a** i el descriptor seria **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos**.
+
+Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
