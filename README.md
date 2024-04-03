@@ -155,3 +155,31 @@ A continuació es mostra part de la definició dels objectius del cicle formatiu
 Per tant, per a la primera entrada: *a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos* el codi seria **a** i el descriptor seria **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos**.
 
 Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
+
+El cicle introduït amb els objectius generals es veuria així:
+
+![Objectius DAM](./md_media/cicle_objectius_introduits.png)
+
+Una vegada hem creat el cicle, i encara que **no** haguem afegit els objectius generals, podem veure'ls i modificar-los en qualsevol moment i també, afegir mòduls professionals al cicle formatiu i començar a treballar amb ells.
+
+## 4. Mòduls
+
+Quan seleccionem l'opció **Mòduls** se'ns mostra la següent informació:
+
+![Mòduls Informàtica](./md_media/seccio_moduls.png)
+
+Aquest panell ens permet crear nous mòduls i actualitzar tota la informació necessària respecte a ells. Ara, en la última versió, quan accedim sols sens mostren els mòduls del **nostre departament**.
+
+Quina informació del mòdul podem veure?:
+
+1. **Cicle**: Cicle o **cicles** formatius als que pertany el mòdul ( tots sabem que hi ha mòduls que poder pertanyer a més d'un cicle formatiu)
+2. **Codi**: Codi del mòdul tal i com ve al Reial Decret que el regula.
+3. **Nom del mòdul**: Nom del mòdul tal i com ve al Reial Decret que el regula.
+4. **Curs**: Curs en el que es cursa el mòdul.
+5. **Estat**: Estat actual de la introducció de les dades de mòdul a la Intranet. De moment te 3 estats:
+   1. *Pendent*: Aquest estat indica que el mòdul ha sigut creat però no s'ha introduït cap informació, o que la informació introduïda no és completa o de prova.
+   2. *En progrés*: Aquest estat indica que el mòdul està en procés d'introducció de la informació.
+   3. *Finalitzat*: Aquest estat indica que la informació del mòdul ha sigut introduïda completament, revisada per la persona que l'ha introduït, i que està disponible per a ser consultada.
+6. **Departament**: Departament al que pertany el mòdul. 
+7. **Resultats d'Aprenentatge**: Descripció dels resultats d'aprenentatge del mòdul amb els criteris d'avaluació corresponents.
+
