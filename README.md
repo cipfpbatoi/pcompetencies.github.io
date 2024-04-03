@@ -153,7 +153,6 @@ A continuació es mostra part de la definició dels objectius del cicle formatiu
 ![Objectius DAM](./md_media/cicle_objectius_reial_decret.png)
 
 Per tant, per a la primera entrada: *a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos* el codi seria **a** i el descriptor seria **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos**.
-
 Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
 
 El cicle introduït amb els objectius generals es veuria així:
@@ -182,4 +181,28 @@ Quina informació del mòdul podem veure?:
    3. *Finalitzat*: Aquest estat indica que la informació del mòdul ha sigut introduïda completament, revisada per la persona que l'ha introduït, i que està disponible per a ser consultada.
 6. **Departament**: Departament al que pertany el mòdul. 
 7. **Resultats d'Aprenentatge**: Descripció dels resultats d'aprenentatge del mòdul amb els criteris d'avaluació corresponents.
+
+### 4.1. Crear Mòduls
+
+Per a crear mòduls hem de premer el botó **Crear Mòduls Formatius** i se'ns mostrarà un panell on hem d'emplenar els següents camps:
+
+![Creació d'un mòdul nou](./md_media/modul_nou.png)
+
+1. **Cicle**: Desplegable que ens permet seleccionar el **cicle** o **cicles** als que pertany el mòdul. Cada vegada que en seleccionem un, es mostrarà el nom curt del cicle seleccionat i al costat una icona que ens permet desasociar el cicle del mòdul.
+2. **Codi**: Codi del mòdul tal i com ve al Reial Decret que el regula.
+3. **Nom del mòdul**: Nom del mòdul tal i com ve al Reial Decret que el regula.
+4. **Curs**: Desplegable que ens permet seleccionar el curs en el que s'imparteix el mòdul.
+5. **Total d'hores**: Total d'hores de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autonomica que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a <https://todofp.es/que-estudiar/loe.html> on buscarem el mòdul del nostre cicle formatiu.
+6. **Hores setmanals**: Hores setmanals de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autonomica que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a <https://todofp.es/que-estudiar/loe.html> on buscarem el mòdul del nostre cicle formatiu.
+7. **Estat**: Desplegable que ens permet seleccionar l'estat del mòdul. Aquest camp es pot modificar en qualsevol moment.
+8. **Departament**: Desplegable que ens permet seleccionar el departament al que pertany el mòdul.
+9. **Descripció (Opcional)**: Camp de text que ens permet introduir lliurement una descripció del mòdul.
+
+A continuació es mostra per mòdul professional de Programació de Serveis i Processos com quedaria:
+
+![Mòdul Nou Ple](./md_media/modul_nou_ple.png)
+
+Una vegada estem conformes en com queda tota la informació polsarem el botó: "Desar i tancar" i es guardarà el mòdul i es tancarà la finestra.
+
+Ara es moment de veure com el podem moficar i com es pot treballar amb els **resultats d'aprenentatge associats al mòdul**
 
