@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Manual d'Usuari](README.md)
-* [Introducció](introduccio.md)
+* [Introducció](README.md)
+* [Manual d'Usuari](<README (1).md>)
