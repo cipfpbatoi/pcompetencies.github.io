@@ -6,12 +6,20 @@ description: Manual d'usuari per a les programacions
 
 Aquesta es la documentació que inclou el manual d'usuari per a la **Aplicació per a la Gestió de les Programacions del CIP FP de Batoi**
 
-* [1. Accés a la Plataforma](./#1-accés-a-la-plataforma)
-* [2. Dintre de l'aplicació](./#2-dintre-de-laplicació)
-  * [2.1. Panell Esquerre](./#21-panell-esquerre)
-  * [2.2. Panell Dret](./#22-panell-dret)
-* [3. Cicles](./#3-cicles)
-  * [3.1. Crear Cicles](./#31-crear-cicles)
+* [1. Accés a la Plataforma](#1-accés-a-la-plataforma)
+* [2. Dintre de l'aplicació](#2-dintre-de-laplicació)
+  * [2.1. Panell Esquerre](#21-panell-esquerre)
+  * [2.2. Panell Dret](#22-panell-dret)
+* [3. Cicles](#3-cicles)
+  * [3.1. Crear Cicles](#31-crear-cicles)
+  * [3.2. Modificar els cicles](#32-modificar-els-cicles)
+  * [3.3. Crear i Modifiar Objectius generals de la titolació](#33-crear-i-modifiar-objectius-generals-de-la-titolació)
+* [4. Mòduls](#4-mòduls)
+  * [4.1. Crear Mòduls](#41-crear-mòduls)
+  * [4.2. Modificar els mòduls](#42-modificar-els-mòduls)
+  * [4.3. Crear i Modificar Resultats d'Aprenentatge del mòdul](#43-crear-i-modificar-resultats-daprenentatge-del-mòdul)
+    * [4.3.1. Afegir Criteris d'Avaluació](#431-afegir-criteris-davaluació)
+    * [4.3.2. Afegir Continguts](#432-afegir-continguts)
 
 ## 1. Accés a la Plataforma
 
