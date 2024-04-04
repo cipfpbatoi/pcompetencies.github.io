@@ -225,7 +225,27 @@ Un cop hem fet clic en **Afegir Nou RA** se'ns mostrarà un panell en el que ten
 1. **Mòdul Associat**: Identificador del mòdul formatiu al que pertany aquest Resultat d'Aprenentatge.
 2. **Número**: Número del resultat d'aprenentatge. Aquest número indica l'ordre en que es presenten els resultats d'aprenentatge en el Reial Decret que regula el mòdul.
 3. **Descriptor**: Descripció del resultat d'aprenentatge tal i com ve al Reial Decret que estableix la titolació o a l'actualització.
-4. **Criteris d'avaluació**: Secció que ens permet afegir una a un cadascun dels criteris d'avaluació del resultat d'aprenentatge (Cada vegada que vulguem afegir un CA hem de fer clic a l'opció **Afegir un element**). Aquests criteris d'avaluació els podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix. Per a cada criteri d'avaluació hem de posar:
-   1. La lletra que l'identifica.
-   2. la descripció del mateix.
+4. **Criteris d'avaluació**: Secció que ens permet afegir una a un cadascun dels criteris d'avaluació del resultat d'aprenentatge (Cada vegada que vulguem afegir un CA hem de fer clic a l'opció **Afegir un element**). Aquests criteris d'avaluació els podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix.
 5. **Continguts Associats**: Secció que ens permet afegir els continguts per al resultat d'aprenentatge. En aquest cas hem d'afegir la categoria principal del contingut ( que es la que es correspon amb el resultat d'aprenentatge) i després els continguts en sí tal i com venen al currículum de la Comunitat autònoma o, en el cas de que no hi haja regulació autonòmica) al Reial Decret que regula el mòdul.
+
+#### 4.3.1. Afegir Criteris d'Avaluació
+
+Per a afegir un criteri d'avaluació hem de fer clic al botó **Afegir un element** i se'ns mostrarà un panell en el que hem d'emplenar els següents camps:
+
+![Criteri d'Avaluació](./md_media/modul_ra_ca_introduccio.png)
+
+1. **Codi**: Codi del criteri d'avaluació tal i com ve al Reial Decret que regula el mòdul o a l'actualització.
+2. **Descriptor**: Descripció del criteri d'avaluació tal i com ve al Reial Decret que regula el mòdul o a l'actualització.
+
+> Tota la informació dels criteris d'avaluació la podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix i els podem consultar a la web <https://todofp.es/que-estudiar/loe.html>
+
+#### 4.3.2. Afegir Continguts
+
+Per a afegir un contingut hem de fer clic al botó **Afegir un element** dintre de la secció i se'ns mostrarà un panell en el que hem d'emplenar els següents camps:
+
+![Contingut](./md_media/modul_ra_contingut_introduccio.png) 
+
+1. **Títol**: Títol de la categoria del contingut tal i com ve al currículum de la Comunitat Autònoma o be al Reial Decret, per a identificar-la hem de buscar a la secció continguts tots els continguts que acaben amb **:**, d'aquesta manera sabrem que es tracta d'una categoria de continguts i no d'un contingut en sí, que es relaciona directament amb el resultat d'aprenentatge.
+2. **Contingut**: Contingut en sí tal i com ve al currículum de la Comunitat Autònoma o be al Reial Decret, per a identificar-lo hem de buscar a la secció continguts tots els continguts que comencen amb **-**, d'aquesta manera sabrem que es tracta d'un contingut en sí i no d'una categoria de continguts, que es relaciona directament amb el resultat d'aprenentatge. 
+
+> Tota la informació dels continguts la podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix i els podem consultar a la web <https://todofp.es/que-estudiar/loe.html>
