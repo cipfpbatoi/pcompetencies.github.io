@@ -1,5 +1,10 @@
 ---
 description: Com accedir a la plataforma
+cover: >-
+  .gitbook/assets/DALL·E 2024-04-04 19.21.02 - Create a logo for a web
+  application documentation section, without any text, conveying a sense of
+  welcome, knowledge, and innovation. The logo should  (1).webp
+coverY: 0
 ---
 
 # Accés a la Plataforma
