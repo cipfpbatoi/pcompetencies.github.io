@@ -239,13 +239,31 @@ Per a afegir un criteri d'avaluació hem de fer clic al botó **Afegir un elemen
 
 > Tota la informació dels criteris d'avaluació la podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix i els podem consultar a la web <https://todofp.es/que-estudiar/loe.html>
 
+Per al cas del mòdul de Programació de Serveis i Processos del cicle formatiu de Desenrotllament d'Aplicacions Multiplataforma, els dos primers criteris d'avaluació quedaria de la següent manera:
+
+![Criteris d'Avaluació PSP](./md_media/modul_ra_ca_introduits.png)
+
+
+
 #### 4.3.2. Afegir Continguts
 
 Per a afegir un contingut hem de fer clic al botó **Afegir un element** dintre de la secció i se'ns mostrarà un panell en el que hem d'emplenar els següents camps:
 
-![Contingut](./md_media/modul_ra_contingut_introduccio.png) 
+![Contingut](./md_media/modul_ra_contingut_introduccio.png)
+
+Aquest pas l'hem de realitzar per a cadascuna de les catergories de continguts (Els continguts que al reial decret o al currículum tenen al final **:**) que es relacionen amb el resultat d'aprenentatge. Aquests camps són:
 
 1. **Títol**: Títol de la categoria del contingut tal i com ve al currículum de la Comunitat Autònoma o be al Reial Decret, per a identificar-la hem de buscar a la secció continguts tots els continguts que acaben amb **:**, d'aquesta manera sabrem que es tracta d'una categoria de continguts i no d'un contingut en sí, que es relaciona directament amb el resultat d'aprenentatge.
-2. **Contingut**: Contingut en sí tal i com ve al currículum de la Comunitat Autònoma o be al Reial Decret, per a identificar-lo hem de buscar a la secció continguts tots els continguts que comencen amb **-**, d'aquesta manera sabrem que es tracta d'un contingut en sí i no d'una categoria de continguts, que es relaciona directament amb el resultat d'aprenentatge. 
+2. **Contingut**: Contingut en sí tal i com ve al currículum de la Comunitat Autònoma o be al Reial Decret, per a identificar-lo hem de buscar a la secció continguts tots els continguts que solen començar amb amb **-**, d'aquesta manera sabrem que es tracta d'un contingut en sí i no d'una categoria de continguts, que es relaciona directament amb el resultat d'aprenentatge.
 
 > Tota la informació dels continguts la podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix i els podem consultar a la web <https://todofp.es/que-estudiar/loe.html>
+
+A continuació es mostra com extraure les categories de continguts i els continguts en sí del Currículum de la Comunitat valenciana per al mòdul de Programació de Serveis i Processos del cicle formatiu de Desenrotllament d'Aplicacions Multiplataforma:
+
+![Continguts DAM](./md_media/modul_continguts_categories.png)
+
+> Ara ens quedaria acabar e introduir els continguts. Per a que ens deixe *desar*, hem d'introduir al menys un CA i un contingut.
+
+En la següent imatge podem veure com quedaría el resultat d'aprenentatge amb els criteris d'avaluació i els continguts associats:
+
+![Resultat d'Aprenentatge amb Criteris d'Avaluació i Continguts](./md_media/modul_ra_ca_co_introduits.png)
