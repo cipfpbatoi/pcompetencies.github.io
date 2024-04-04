@@ -1,5 +1,5 @@
 ---
-description: Manual d'usuari per a les programacions
+description: Manual d'usuari per a l'aplicació de Programacions didàctiques del CIPFP Batoi
 ---
 
 # Introducció
