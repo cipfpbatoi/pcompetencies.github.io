@@ -204,5 +204,28 @@ A continuació es mostra per mòdul professional de Programació de Serveis i Pr
 
 Una vegada estem conformes en com queda tota la informació polsarem el botó: "Desar i tancar" i es guardarà el mòdul i es tancarà la finestra.
 
-Ara es moment de veure com el podem moficar i com es pot treballar amb els **resultats d'aprenentatge associats al mòdul**
+Ara al llistat de mòduls, si no el veiem, el buscarem mitjançant els filtres.
 
+Ara es moment de veure com el podem modificar i com es pot treballar amb els **resultats d'aprenentatge associats al mòdul**
+
+### 4.2. Modificar els mòduls
+
+Per a modificar un mòdul hem de fer clic al botó **...** que es troba a la dreta del tot de cada entrada de cada mòdul i polsar en **Modificar**.
+
+Se'ns mostrarà la pantalla de la secció anterior però amb les dades del mòdul plenes en lloc de buides.
+
+### 4.3. Crear i Modificar Resultats d'Aprenentatge del mòdul
+
+Quan volem afegir un resultat d'aprenentatge, hem de fer clic al botó **...** del mòdul existent en qüestió i polsar en **Afegir Nou RA** per accedir directament o bé a qualsevol de les altres opcions com *Veure* o *Modificar* i després polsar en *Afegir Nou RA* que apareixerà dalt a la dreta de la pantalla.
+
+Un cop hem fet clic en **Afegir Nou RA** se'ns mostrarà un panell en el que tenim la següent informació:
+
+![Resultat d'Aprenentatge](./md_media/modul_ra_introduccio.png)
+
+1. **Mòdul Associat**: Identificador del mòdul formatiu al que pertany aquest Resultat d'Aprenentatge.
+2. **Número**: Número del resultat d'aprenentatge. Aquest número indica l'ordre en que es presenten els resultats d'aprenentatge en el Reial Decret que regula el mòdul.
+3. **Descriptor**: Descripció del resultat d'aprenentatge tal i com ve al Reial Decret que estableix la titolació o a l'actualització.
+4. **Criteris d'avaluació**: Secció que ens permet afegir una a un cadascun dels criteris d'avaluació del resultat d'aprenentatge (Cada vegada que vulguem afegir un CA hem de fer clic a l'opció **Afegir un element**). Aquests criteris d'avaluació els podem trobar al Reial Decret que regula el mòdul o a l'actualització del mateix. Per a cada criteri d'avaluació hem de posar:
+   1. La lletra que l'identifica.
+   2. la descripció del mateix.
+5. **Continguts Associats**: Secció que ens permet afegir els continguts per al resultat d'aprenentatge. En aquest cas hem d'afegir la categoria principal del contingut ( que es la que es correspon amb el resultat d'aprenentatge) i després els continguts en sí tal i com venen al currículum de la Comunitat autònoma o, en el cas de que no hi haja regulació autonòmica) al Reial Decret que regula el mòdul.
