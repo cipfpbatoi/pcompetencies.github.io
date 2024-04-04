@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Introducció](Introduccio.md)
-* [Manual d'Usuari](<README.md>)
+* [Introducció](README.md)
+* [Manual d'Usuari](<README (1).md>)
+* [Accés a la Plataforma](acces-a-la-plataforma.md)
+* [Elements](elements.md)
+
+## Normativa
+
+* [Cicles](normativa/cicles.md)
+* [Mòduls](normativa/moduls.md)
