@@ -7,4 +7,5 @@
 ## Normativa
 
 * [🗃️ Cicles](normativa/cicles.md)
-* [📑 Mòduls](normativa/moduls.md)
+* [📑 Mòduls](normativa/moduls/README.md)
+  * [🎯 Resultats d'aprenetatge](normativa/moduls/resultats-daprenetatge.md)

@@ -2,7 +2,7 @@
 description: Elements i organització general de l'aplicació
 ---
 
-# Elements
+# ⚙️ Elements
 
 Depenent del tamany inicial i del vostre usuari, veureu diferents coses. Per a treballar sobre el mateix esquema, deveu de maximitzar al màxim el navegador de forma que es veja la pantalla amb aquesta disposició:
 
