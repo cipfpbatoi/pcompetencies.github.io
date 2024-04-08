@@ -8,4 +8,4 @@
 
 * [🗃️ Cicles](normativa/cicles.md)
 * [📑 Mòduls](normativa/moduls/README.md)
-  * [🎯 Resultats d'aprenetatge](normativa/moduls/resultats-daprenetatge.md)
+  * [🎯 Resultats d'aprenentatge](normativa/moduls/resultats-daprenentatge.md)
