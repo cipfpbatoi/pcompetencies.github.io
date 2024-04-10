@@ -4,7 +4,7 @@ description: >-
   mòdul professional des de l'Aplicació
 ---
 
-# 🎯 Resultats d'aprenentatge
+# 👩‍🏫 Resultats d'aprenentatge
 
 ## Treball amb els Resultats d'Aprenentatge
 

@@ -6,7 +6,7 @@ description: Treball amb els cicles formatius
 
 Quan seleccionem l'opció **Cicles** se'ns mostra la següent informació:
 
-![Cicles Informàtica](../md\_media/seccio\_cicles\_informatica.jpeg)
+![Cicles Informàtica](../../md\_media/seccio\_cicles\_informatica.jpeg)
 
 Aquest panell ens permet crear nous cicles i actualitzar tota la informació necessària respecte a ells. Ara, en la última versió, quan accedim sols sens mostren els cicles del **nostre departament**.
 
@@ -21,7 +21,7 @@ Quina informació del cicle podem veure?:
 
 Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcions les podem veure dalt a la dreta, just baix del nostre identificador)
 
-![Opcions a la pantalla principal dels cicles](../md\_media/seccio\_cicles\_opcions.png)
+![Opcions a la pantalla principal dels cicles](../../md\_media/seccio\_cicles\_opcions.png)
 
 * Opció **Filtros**: Actualment ens permeteix filtrar pels camps _Nom Curt_ i _Nom Complet_ del cicle per a que ens siga més fàcil buscar l'opció en la que volem treballar.
 * Opció **Crear Cicles**: Quan prenem aquest botó ens mostra el panell per a crear cicles que es descriurà posteriorment.
@@ -33,7 +33,7 @@ Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcion
 
 Per a crear cicles hem de premer el botó **Crear Cicles** i se'ns mostrarà un panell on hem d'emplenar els següents camps:
 
-![Creació d'un cicle nou](../md\_media/cicle\_nou.png)
+![Creació d'un cicle nou](../../md\_media/cicle\_nou.png)
 
 1. **Nom Curt**: Nom curt del cicle en majúscules, cal utilitzar la següent nomenclatura:
    1. **CF** (Abreviatura de Cicle Formatiu) o **CE** (Curs d'especialització) seguit de **M** o **S** en cas de que en funció de si es tracta d'un Cicle Formatiu de Grau Mig o d'un Superior.
@@ -49,11 +49,11 @@ Per a crear cicles hem de premer el botó **Crear Cicles** i se'ns mostrarà un 
 
 A continuació es mostra per cicle formatiu de Desenrotllament d'Aplicacions Web com quedaria:
 
-![Cicle Nou Ple](../md\_media/cicle\_nou\_omplit.png)
+![Cicle Nou Ple](../../md\_media/cicle\_nou\_omplit.png)
 
 Una vegada estem conformes en com queda tota la informació, tenim dues opcions:
 
-![Opcions després de crear un cicle](../md\_media/cicle\_nou\_desar.png)
+![Opcions després de crear un cicle](../../md\_media/cicle\_nou\_desar.png)
 
 1. El podem crear i introduir-ne un altre
 2. Desar i tancar
@@ -66,7 +66,7 @@ Ara es moment de veure com el podem moficar i com es pot treballar amb el **obje
 
 Una vegada hem creat el fitxer podem modificar-lo per fent clic al botó **...** que es troba a la dreta del tot de cada entrada de cada títol:
 
-![Editar Titolació](../md\_media/cicle\_editar.png)
+![Editar Titolació](../../md\_media/cicle\_editar.png)
 
 amb el que se'ns mostraran dues opcions:
 
@@ -75,35 +75,6 @@ amb el que se'ns mostraran dues opcions:
 
 En la següent imatge podem veure un exemple del resultat de polsar al botó **Visualitzar**, baix de tot de la imatge
 
-[Cicle amb dos objectius](../md\_media/cicle\_visualitzar.png)
+[Cicle amb dos objectius](../../md\_media/cicle\_visualitzar.png)
 
-## 3. Gestió dels Objectius del Cicle
-
-Quan volem afegir un objectiu, hem de fer clic al botó **Modificar** per accedir a les opcions que ens permeten, a més de modificar totes les opcions vistes anteriorment, **afegir, editar i modificar els objectius generals** ( També se'ns mostra l'opció **Modificar** dalt a la dreta quan estem visualitzant una titolació)
-
-Una vegada hem fet clic en **Modificar** se'ns mostrarà la següent pantalla, ( baix de tot de la imatge tenim la secció per a manipular i afegir els objectius generals del cicle formatiu):
-
-![Objectius del cicle](../md\_media/cicle\_objectius.png)
-
-Per a afegir un objectiu, hem de fer clic en el botó **Afegir un element** i se'ns mostrarà un panell on hem d'emplenar els següents camps tal i com es descriuen al real decret que regula el títol:
-
-1. **Codi** identificador de l'objectiu ( normalement al real decret sol ser una lletra minúscula)
-2. **Descriptor** Text que indica en qué consisteix l'objectiu que treballarem a la titolació.
-
-![Objectiu nou](../md\_media/cicle\_objectius\_introduccio.png)
-
-Aquest objectiu el podem veure al Reial Decret que regula el nostre títol i que podem consultar en la web del BOE. Per exemple, en el cas del cicle formatiu de Desenrotllament d'Aplicacions Multiplataforma (DAM), aniriem a a web [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) buscariem la família professional _Informàtica i Comunicacions_ i clicaríem en el cicle formatiu de _Desenrotllament d'Aplicacions Multiplataforma_ i aniríem a la secció de **BOE** on trobaríem els objectius del cicle. (A titolacions LOE capítol III, article 9) - Si hi ha cap actualització deuriem d'utilitzar eixa per als objectius.
-
-En el cas de DAM existeix una actualització del títol: Real Decreto 405/2023, de 29 de mayo, per tant, hem de buscar els objectius açí si es troben, en lloc del reial decret original.
-
-A continuació es mostra part de la definició dels objectius del cicle formatiu de DAM:
-
-![Objectius DAM](../md\_media/cicle\_objectius\_reial\_decret.png)
-
-Per tant, per a la primera entrada: _a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos_ el codi seria **a** i el descriptor seria **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos**. Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
-
-El cicle introduït amb els objectius generals es veuria així:
-
-![Objectius DAM](../md\_media/cicle\_objectius\_introduits.png)
-
-Una vegada hem creat el cicle, i encara que **no** haguem afegit els objectius generals, podem veure'ls i modificar-los en qualsevol moment i també, afegir mòduls professionals al cicle formatiu i començar a treballar amb ells.
+##
