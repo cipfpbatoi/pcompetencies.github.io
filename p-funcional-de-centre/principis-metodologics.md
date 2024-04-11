@@ -1,14 +1,14 @@
 ---
 description: >-
   En esta secció veurem com gestionar els Principis Metodològics que
-  s'utilitzaran al centre
+  s'utilitzaran a l'aplicació de programacions del centre
 ---
 
 # 🪄 Principis Metodològics
 
 ### Principis Metodològics de Centre: Fonaments per a l'Excel·lència Educativa
 
-Els **principis metodològics de centre** constitueixen el marc teòric i científic que guia l'ensenyament en els establiments educatius. Aqests principis són el resultat de l'adaptació de diverses teories i enfocaments psicopedagògics a les particularitats i necessitats dels estudiants, el personal docent, el currículum i el context educatiu. La seva importància rau en la capacitat de dissenyar experiències d'aprenentatge coherents, significatives i orientades a competències, que promoguin el desenvolupament integral de l'alumnat i l'assoliment dels objectius educatius.
+Els **principis metodològics de centre** constitueixen el marc teòric i científic que guia l'ensenyament en els establiments educatius. Aquests principis són el resultat de l'adaptació de diverses teories i enfocaments psicopedagògics a les particularitats i necessitats dels estudiants, el personal docent, el currículum i el context educatiu. La seva importància rau en la capacitat de dissenyar experiències d'aprenentatge coherents, significatives i orientades a competències, que promoguin el desenvolupament integral de l'alumnat i l'assoliment dels objectius educatius.
 
 #### Beneficis Clau
 
@@ -23,9 +23,20 @@ Al nostre centre, el que anem a fer establir uns Principis Metodològics de Cent
 
 ### Llistat de Principis Metodològics
 
-Quan fem clic a la **Principis Metodològics** se'ns mostra un llistat amb tots els que hi han definits al centre. Se'ns mostra:
+Quan fem clic a la **Principis Metodològics** se'ns mostra un llistat amb tots els que hi han definits al centre. Els camps que indica son els següents:
 
 1. **ID**: Identificador numèric del Principi
 2. **Nom**: Descripció curta del Principi, per a identificar-lo de manera ràpida.
 3. **Descripció:** Una descripció més ampla en la que s'explica el principi metodològic i com serà la seua implementació al centre.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Llistat de Principis Metodològics</p></figcaption></figure>
+
+Les opcions que tenim disponibles segons el nostre son:&#x20;
+
+1. **Crear Principi Metodològic:** Crea un nou principi metodològic per a poderlo afegir a les programacions. Ens mostrarà un camp on hem d'omplir el **Nom** i la **Descripció.**
+2. Mitjançant els **...** punts:
+   1. **Veure:** Ens mostra el principi metodològic en una pàgina incloent Nom i Descripció.
+   2. **Modificar:** Mostra un panell com el de creació, pero amb els camps plens i ens deixa modificar-lo.
+   3. **Esborrar**: Borra el Principi Metodològic seleccionat.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de visualització d'un Principi Metodològic</p></figcaption></figure>
