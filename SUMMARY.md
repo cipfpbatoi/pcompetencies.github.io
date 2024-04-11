@@ -12,3 +12,7 @@
 * [📑 Mòduls](normativa/moduls/README.md)
   * [👩‍🏫 Resultats d'aprenentatge](normativa/moduls/resultats-daprenentatge.md)
   * [🎯 Objectius i Competències](normativa/moduls/objectius-i-competencies.md)
+
+## P FUNCIONAL DE CENTRE
+
+* [🪄 Principis Metodològics](p-funcional-de-centre/principis-metodologics.md)
