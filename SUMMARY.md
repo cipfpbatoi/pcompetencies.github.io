@@ -16,3 +16,4 @@
 ## P FUNCIONAL DE CENTRE
 
 * [🪄 Principis Metodològics](p-funcional-de-centre/principis-metodologics.md)
+* [✒️ Instruments/Tècniques d'Avaluació](p-funcional-de-centre/instruments-tecniques-davaluacio.md)
