@@ -11,5 +11,4 @@
   * [🧰 Competències](normativa/cicles/competencies.md)
 * [📑 Mòduls](normativa/moduls/README.md)
   * [👩‍🏫 Resultats d'aprenentatge](normativa/moduls/resultats-daprenentatge.md)
-  * [🎯 Objectius](normativa/moduls/objectius.md)
-  * [🧰 Competències](normativa/moduls/competencies.md)
+  * [🎯 Objectius i Competències](normativa/moduls/objectius-i-competencies.md)
