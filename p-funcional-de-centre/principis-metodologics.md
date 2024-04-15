@@ -29,7 +29,7 @@ Quan fem clic a la **Principis Metodològics** se'ns mostra un llistat amb tots 
 2. **Nom**: Descripció curta del Principi, per a identificar-lo de manera ràpida.
 3. **Descripció:** Una descripció més ampla en la que s'explica el principi metodològic i com serà la seua implementació al centre.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Llistat de Principis Metodològics</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Llistat de Principis Metodològics</p></figcaption></figure>
 
 Les opcions que tenim disponibles segons el nostre son:&#x20;
 
@@ -39,4 +39,4 @@ Les opcions que tenim disponibles segons el nostre son:&#x20;
    2. **Modificar:** Mostra un panell com el de creació, pero amb els camps plens i ens deixa modificar-lo.
    3. **Esborrar**: Borra el Principi Metodològic seleccionat.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de visualització d'un Principi Metodològic</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Exemple de visualització d'un Principi Metodològic</p></figcaption></figure>

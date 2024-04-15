@@ -14,15 +14,15 @@ A més, cal recordar que han d'estar donats d'alta al cicle formatiu els objecti
 
 Per accedir al **mòdul** del que volem definir els Objectius i les competències, hem d'anar a la llista de mòduls i buscar-lo o bé, al cicle formatiu que vulguem, fer clic en mostrar i ens apareixerà un llistat d'enllaços amb tots els mòduls que formen part del cicle formatiu:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Com es veuen els mòduls que formen part d'un cicle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Com es veuen els mòduls que formen part d'un cicle</p></figcaption></figure>
 
 Seleccionaríem el mòdul del que vulguem introduir els objectius i les competències, per al nostre cas fem clic en: **(0489) - Programació de servicis i procesos** y anem just a la vista del mòdul.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vista del mòdul</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Vista del mòdul</p></figcaption></figure>
 
 Una vegada estem en aquest panell, fem clic en **Afegir Nou Obj/Comp Cicle** i així anirem al editor per afegir les competències i els objectius per a un cicle en concret:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Panell per a definir la contribució als objectius i a les competències del mòdul professional en un cicle en concret</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Panell per a definir la contribució als objectius i a les competències del mòdul professional en un cicle en concret</p></figcaption></figure>
 
 Hem de seleccionar el següent als desplegables:
 
@@ -32,7 +32,7 @@ Hem de seleccionar el següent als desplegables:
 
 La contribució als objectius com a les competències del cicle podem trobar-les al Reial Decret que crea la titolació o a les actualitzacions, a l'arpartat **Orientacions Pedagògiques** en el cas d'aquest mòdul en concret tal i com venen a l'actualització serien:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Objecius Generals i Competències de PSP</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Objecius Generals i Competències de PSP</p></figcaption></figure>
 
 Segons anem marcant cadascun dels objectius i de les competències, ens anirà apareixent al quadre i desapareixent de la llista. En el cas que tinguem que eliminar-ne una, hauriem de fer clic en la **x** que està situada al costat de la competència o l'objectiu afegit erròniament per a llevar-lo de la selecció.
 

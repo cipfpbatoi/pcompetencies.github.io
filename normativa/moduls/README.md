@@ -2,7 +2,7 @@
 description: Treball amb els mòduls
 ---
 
-# 📑 Mòduls
+# 🗂️ Mòduls
 
 Quan seleccionem l'opció **Mòduls** se'ns mostra la següent informació:
 
