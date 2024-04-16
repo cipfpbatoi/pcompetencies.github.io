@@ -12,18 +12,18 @@ Aquest panell ens permet crear nous cicles i actualitzar tota la informació nec
 
 Quina informació del cicle podem veure?:
 
-1. **Nom curt** Nom curt del cicle, inclou si es un cicle formatiu de grau superior, Inicials del cicle i legislació per a diferenciar si es tracta d'un cicle LOE o LOGSE, per exemple: En el cas del: _Cicle Formatiu de Desenrotllament d'aplicacions Multiplataforma_ el nom curt seria: **CFS DAM (LOE)**
+1. **Nom curt** Nom curt del cicle: En el cas del: _Cicle Formatiu de Desenrotllament d'aplicacions Multiplataforma_ el nom curt seria: **CFS DAM (LOE).** Com compondre aquest nom ho veurem més tard.
 2. **Nom Complet** Nom tal com ve en el Reial decret que el defineix.
 3. **Real Decret de títol** Real decret en el que es defineix el títol.
 4. **Ordre de Currículum** Si hi ha Ordre de la Generalitat Valenciana que concrete el currículum de la titulació definida pel real decret.
 5. **Actualització del Real Decret de títol (Si Existeix)** Si hi ha cap actualització del títol, estaria a aquest apartat.
-6. **Departament** Departament al que pertany el títol.
+6. **Departament** al que pertany el títol.
 
 Quines opcions tenim disponibles per a treballar amb els cicles?(Aquestes opcions les podem veure dalt a la dreta, just baix del nostre identificador)
 
 ![Opcions a la pantalla principal dels cicles](../../md\_media/seccio\_cicles\_opcions.png)
 
-* Opció **Filtros**: Actualment ens permeteix filtrar pels camps _Nom Curt_ i _Nom Complet_ del cicle per a que ens siga més fàcil buscar l'opció en la que volem treballar.
+* Opció **Filtros**: Actualment ens permet filtrar pels camps **Nom Curt** i **Nom Complet** del cicle per a que ens siga més fàcil buscar l'opció en la que volem treballar.
 * Opció **Crear Cicles**: Quan prenem aquest botó ens mostra el panell per a crear cicles que es descriurà posteriorment.
 * Opció **...**: Al polsar el aquest botó sens mostren dos noves opcions:
   * **Ver**: En permet visualitzar tota la informació del cicle **incloent els mòduls professionals donats d'alta** a l'aplicació i hiperenllaçats, de forma que si polsem dins d'aquest ens durà al panell de visualització del mòdul professional. En aquest panell, dalt a la dreta, tenim dues noves opcions que ens permeten **Volver al listado** en el que es mostren tots els mòduls o **Modificar** la informació relativa a la identificació del cicle formatiu.
@@ -35,9 +35,11 @@ Per a crear cicles hem de premer el botó **Crear Cicles** i se'ns mostrarà un 
 
 ![Creació d'un cicle nou](../../md\_media/cicle\_nou.png)
 
+En la següent llista se'ns mostren instruccions de com omplir cadascun dels camps per a que tots utilitzem la mateixa estructura.
+
 1. **Nom Curt**: Nom curt del cicle en majúscules, cal utilitzar la següent nomenclatura:
    1. **CF** (Abreviatura de Cicle Formatiu) o **CE** (Curs d'especialització) seguit de **M** o **S** en cas de que en funció de si es tracta d'un Cicle Formatiu de Grau Mig o d'un Superior.
-   2. **Nom abreviat del cicle formatiu**. Depenent de l'especialitat, s'utilitza una nomenclatura o un altra, per exemple, el nom abreviat del cicle formatiu _Desenrotllament d'Aplicacions Multiplataforma_ sera **DAM**
+   2. **Nom abreviat del cicle formatiu**. Depenent de l'especialitat, s'utilitza una nomenclatura o un altra, per exemple, el nom abreviat del cicle formatiu _Desenrotllament d'Aplicacions Multiplataforma_ serà **DAM**
    3. Legislació que el: Entre parèntesi si es tracta d'un cicle formatiu establit en legislació LOE o LOGSE.
    4. Exemple d'utilització: En el cas del _Tècnic en Cures auxiliar d'Infermeria_ seria **CFM CAE (LOGSE)**. Per al cas de _Tècnic en Farmàcia i Parafarmàcia_ seria: **CFM FARMACIA (LOE)** i per al cas del _Curs d'Especialització en Ciberseguretat en Entorns de les Tecnologies de la Informació_ seria **CE CIBERSEGURETAT**
 2. **Nom Complet** Nom complet del títol en majúscules, en el cas del cicle formatiu de grau superior de Desenrotllament d'Aplicacions Multiplataforma el nom seria: **TÈCNIC SUPERIOR EN DESENROTLLAMENT D'APLICACIONS MULTIPLATAFORMA**
