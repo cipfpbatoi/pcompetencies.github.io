@@ -37,7 +37,7 @@ Per a crear mòduls hem de premer el botó **Crear Mòduls Formatius** i se'ns m
 6. **Hores setmanals**: Hores setmanals de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autonomica que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) on buscarem el mòdul del nostre cicle formatiu.
 7. **Estat**: Desplegable que ens permet seleccionar l'estat del mòdul. Aquest camp es pot modificar en qualsevol moment.
 8. **Departament**: Desplegable que ens permet seleccionar el departament al que pertany el mòdul.
-9. **Descripció (Opcional)**: Camp de text que ens permet introduir lliurement una descripció del mòdul.
+9. **Descripció (Opcional)**: En el cas de títols **LOE**, en aquest camp de text cal introduir el text que ve a les **Orientacions Pedagògiques** del mòdul al Real Decret que estableix la titulació. Per al cas de títols de **LOGSE** cal fer un comentari que descriga les característiques bàsiques del mòdul.
 
 A continuació es mostra per mòdul professional de Programació de Serveis i Processos com quedaria:
 
