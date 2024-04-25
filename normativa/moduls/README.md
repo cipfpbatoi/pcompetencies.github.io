@@ -23,21 +23,53 @@ Quina informació del mòdul podem veure?:
 6. **Departament**: Departament al que pertany el mòdul.
 7. **Resultats d'Aprenentatge**: Descripció dels resultats d'aprenentatge del mòdul amb els criteris d'avaluació corresponents.
 
-## 1. Crear Mòduls
+## Crear Mòduls
 
 Per a crear mòduls hem de premer el botó **Crear Mòduls Formatius** i se'ns mostrarà un panell on hem d'emplenar els següents camps:
 
 ![Creació d'un mòdul nou](../../md\_media/modul\_nou.png)
 
-1. **Cicle**: Desplegable que ens permet seleccionar el **cicle** o **cicles** als que pertany el mòdul. Cada vegada que en seleccionem un, es mostrarà el nom curt del cicle seleccionat i al costat una icona que ens permet desasociar el cicle del mòdul.
-2. **Codi**: Codi del mòdul tal i com ve al Reial Decret que el regula.
-3. **Nom del mòdul**: Nom del mòdul tal i com ve al Reial Decret que el regula.
-4. **Curs**: Desplegable que ens permet seleccionar el curs en el que s'imparteix el mòdul.
-5. **Total d'hores**: Total d'hores de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autonomica que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) on buscarem el mòdul del nostre cicle formatiu.
-6. **Hores setmanals**: Hores setmanals de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autonomica que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) on buscarem el mòdul del nostre cicle formatiu.
-7. **Estat**: Desplegable que ens permet seleccionar l'estat del mòdul. Aquest camp es pot modificar en qualsevol moment.
-8. **Departament**: Desplegable que ens permet seleccionar el departament al que pertany el mòdul.
-9. **Descripció (Opcional)**: En el cas de títols **LOE**, en aquest camp de text cal introduir el text que ve a les **Orientacions Pedagògiques** del mòdul al Real Decret que estableix la titulació. Per al cas de títols de **LOGSE** cal fer un comentari que descriga les característiques bàsiques del mòdul.
+## Com omplim els camps?
+
+### **Cicle**&#x20;
+
+Desplegable que ens permet seleccionar el **nom curt** del **cicle** o **cicles** als que pertany el mòdul. Cada vegada que en seleccionem un, es mostrarà el nom curt del cicle seleccionat i al costat una icona amb una **X** que ens permet desasociar el cicle del mòdul.
+
+### **Codi**
+
+Codi del mòdul tal i com ve al Reial Decret que el regula.
+
+### **Nom del mòdul**
+
+Nom del mòdul tal i com ve al Reial Decret que el regula.
+
+### **Curs**
+
+Desplegable que ens permet seleccionar el curs en el que s'imparteix el mòdul. Aquesta informació es pot extreure bé del Reial Decret bé del Currículum de la Comunitat Autónoma.
+
+### **Total d'hores**
+
+Total d'hores de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autònoma que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) on buscarem el mòdul del nostre cicle formatiu. Com sempre, si no hi ha legislació autonòmica, utilitzarem la legislació estatal.&#x20;
+
+### **Hores setmanals**
+
+Hores setmanals de formació del mòdul tal i com venen a la normativa. Aquestes hores normalment les podem trobar a l'ordre de la comunitat autònoma que estableix el currículum per a la regió. En la nostra comunitat, aquesta informació la podem trobar al DOGV, però d'una manera més fàcil la podem trobar a [https://todofp.es/que-estudiar/loe.html](https://todofp.es/que-estudiar/loe.html) on buscarem el mòdul del nostre cicle formatiu. Com sempre, si no hi ha legislació autonòmica, utilitzarem la legislació estatal.&#x20;
+
+### **Estat**&#x20;
+
+Desplegable que permet seleccionar i fer seguiment de com es porta a terme la tasca d'omplir la documentació del mòdul, que es realitza manualment pel professorat. Aquest camp pot ser modificat en qualsevol moment. Els possibles estats són:
+
+1. `Pendent`: En cas de que acabem de crear el mòdul o tingam molt poca informació introduïda.
+2. `En procés`: Estem introduint informació del mòdul però encara no hem finalitzat.
+3. `Finalitzat`: S'ha introduït tota la informació i s'ha verificat.&#x20;
+
+### Departament
+
+Desplegable que ens permet seleccionar el departament docent al que pertany el mòdul.
+
+### **Descripció (Opcional)**
+
+En el cas de títols **LOE**, en aquest camp de text cal introduir el text que ve a les **Orientacions Pedagògiques** del mòdul en Real Decret que estableix la titulació. Per al cas de títols de **LOGSE** cal fer un comentari que descriga les característiques bàsiques del mòdul.
 
 A continuació es mostra per mòdul professional de Programació de Serveis i Processos com quedaria:
 
