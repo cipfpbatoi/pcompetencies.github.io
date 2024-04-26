@@ -12,7 +12,7 @@ Aquest panell ens permet crear nous mòduls i actualitzar tota la informació ne
 
 Quina informació del mòdul podem veure?:
 
-1. **Cicle**: Cicle o **cicles** formatius als que pertany el mòdul ( tots sabem que hi ha mòduls que poder pertanyer a més d'un cicle formatiu)
+1. **Cicle**: Cicle o **cicles** formatius als que pertany el mòdul ( tots sabem que hi ha mòduls que poder pertànyer a més d'un cicle formatiu)
 2. **Codi**: Codi del mòdul tal i com ve al Reial Decret que el regula.
 3. **Nom del mòdul**: Nom del mòdul tal i com ve al Reial Decret que el regula.
 4. **Curs**: Curs en el que es cursa el mòdul.
