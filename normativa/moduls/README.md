@@ -1,5 +1,5 @@
 ---
-description: Treball amb els mòduls
+description: Modificació dels mòduls dels cicles
 ---
 
 # 🗂️ Mòduls
