@@ -4,7 +4,7 @@ description: Com gestionar els objectius generals del Títol
 
 # 🎯 Objectius Generals
 
-Quan volem afegir un objectiu, hem de fer clic al botó **Modificar** per accedir a les opcions que ens permeten, a més de modificar totes les opcions vistes anteriorment, **afegir, editar i modificar els objectius generals** ( També se'ns mostra l'opció **Modificar** dalt a la dreta quan estem visualitzant una titolació)
+Quan volem afegir un objectiu, hem de fer clic al botó **Modificar** per accedir a les opcions que ens permeten, a més de modificar totes les opcions vistes anteriorment, **afegir, editar i modificar els objectius generals** ( També se'ns mostra l'opció **Modificar** dalt a la dreta quan estem visualitzant una titulació)
 
 Una vegada hem fet clic en **Modificar** se'ns mostrarà la següent pantalla, ( baix de tot de la imatge tenim la secció per a manipular i afegir els objectius generals del cicle formatiu):
 
@@ -12,8 +12,8 @@ Una vegada hem fet clic en **Modificar** se'ns mostrarà la següent pantalla, (
 
 Per a afegir un objectiu, hem de fer clic en el botó **Afegir un element** i se'ns mostrarà un panell on hem d'emplenar els següents camps tal i com es descriuen al real decret que regula el títol:
 
-1. **Codi** identificador de l'objectiu ( normalement al real decret sol ser una lletra minúscula)
-2. **Descriptor** Text que indica en qué consisteix l'objectiu que treballarem a la titolació.
+1. **Codi** identificador de l'objectiu ( normalment al real decret sol ser una lletra minúscula)
+2. **Descriptor** Text que indica en qué consisteix l'objectiu que treballarem a la titulació.
 
 ![Objectiu nou](../../md\_media/cicle\_objectius\_introduccio.png)
 
@@ -25,7 +25,7 @@ A continuació es mostra part de la definició dels objectius del cicle formatiu
 
 ![Objectius DAM](../../md\_media/cicle\_objectius\_reial\_decret.png)
 
-Per tant, per a la primera entrada: _a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos_ el codi seria **a** i el descriptor seria **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos**. Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
+Per tant, per a la primera entrada: _a) Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos_ el codi seria **a** i el descriptor quedaría com a: **Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos.** (Important hem d'incloure el <mark style="background-color:blue;">**punt i a part de les frases**</mark>) Un cop hem introduït l'objectiu, podem afegir-ne un altre o bé guardar els canvis. Si guardem els canvis, es mostraran a la llista de objectius generals del cicle formatiu.
 
 El cicle introduït amb els objectius generals es veuria així:
 

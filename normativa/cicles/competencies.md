@@ -23,4 +23,4 @@ Per afegir-ne una hem de fer clic al botó **+ Afegir un element** i haurem d'om
 
 Hem de repetir aquest procés tantes vegades com Competències Professionals, Personals i Socials tinga la nostra titulació.
 
-> Aquest procés, juntament amb el d'afegir els objectius generals es obligatori realitzar-lo abans d'afegir la contribució als objectius i a les competències de cadascun dels mòduls.
+> Aquest procés, juntament amb el d'afegir els objectius generals es obligatori realitzar-lo abans d'afegir la contribució als objectius i a les competències de cadascun dels mòduls. I cal recordar que es absolutament necessari introduir el <mark style="background-color:blue;">**punt i a part**</mark> de les oracions.&#x20;

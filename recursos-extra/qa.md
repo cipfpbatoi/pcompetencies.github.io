@@ -35,6 +35,8 @@ Ara ja podem treballar amb el document traduït i podrem copiar i enganxar ( sem
 
 En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf) que es troba a la [secció de vídeos](videos-explicatius.md) explicatius cap a l'instant 2:45 podem veure una explicació similar dels passos.&#x20;
 
+> Cal seleccionar el **punt i a part** de les frases per a qué al mostrar la informació, sempre quede coherent.&#x20;
+
 ## Creació del procés tecnològic del mòdul mitjançant draw.io&#x20;
 
 A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure [https://www.drawio.com/](https://www.drawio.com/). Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
