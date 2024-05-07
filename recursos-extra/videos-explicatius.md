@@ -16,8 +16,14 @@ Introducció, login i password i ús bàsic de l'aplicació
 {% endembed %}
 
 * **Cicles**
-  * [App Programacions - 02 - Cicles - Creació i Modificació de Cicles Formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EY5c\_5pzdLBPvzCip840moABPFDHSlc85zmfslSficWyRg?e=xgk8ov)
-  * [App Programacions - 03 - Cicles - Afegir i Modificar Objectius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf)
+
+### Cicles
+
+{% embed url="https://youtu.be/e3JrW39iKig" %}
+Gestió bàsica dels Cicles
+{% endembed %}
+
+* [App Programacions - 03 - Cicles - Afegir i Modificar Objectius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf)
 * **Mòduls**
   * [App Programacions - 04 - Mòduls - Creació i Modificació](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EdsaNMec4dxPmdRUKIKkHNAB23CT2CTIxLYNm4zX3eLZVQ?e=SnZIIC)
   * [App Programacions - 05 - Afegir i Modificar els RA](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/ETNUptG3HSBErKhEGZIniisBdViz\_nEZfnDi3zuN4dyTzA?e=czFN5W)
