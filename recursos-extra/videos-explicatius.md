@@ -9,7 +9,12 @@ description: >-
 
 ## APP Programacions&#x20;
 
-* &#x20;[App Programacions - 01 - Introducció I Navegació Bàsica](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EVWa8fYz8ihEh6PvyPxZssEBse1Uinbaf-UddcTJZHmIdw?e=SlT4cr)
+### Introducció i Ús bàsic de l'Aplicació
+
+{% embed url="https://youtu.be/WhgMl6RWFUI" %}
+Introducció, login i password i ús bàsic de l'aplicació
+{% endembed %}
+
 * **Cicles**
   * [App Programacions - 02 - Cicles - Creació i Modificació de Cicles Formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EY5c\_5pzdLBPvzCip840moABPFDHSlc85zmfslSficWyRg?e=xgk8ov)
   * [App Programacions - 03 - Cicles - Afegir i Modificar Objectius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf)
