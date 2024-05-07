@@ -33,7 +33,7 @@ Si l'opció que tenim es Español, hem de traduir igualment, i fer clic en el bo
 
 Ara ja podem treballar amb el document traduït i podrem copiar i enganxar ( sempre comprovant que la traducció estiga ben realitzada) des del Reial Decret cap a l'aplicació
 
-En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf) que es troba a la [secció de vídeos](videos-explicatius.md) explicatius cap a l'instant 2:45 podem veure una explicació similar dels passos.&#x20;
+En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf) que es troba a la [secció de vídeos](videos-explicatius/) explicatius cap a l'instant 2:45 podem veure una explicació similar dels passos.&#x20;
 
 > Cal seleccionar el **punt i a part** de les frases per a qué al mostrar la informació, sempre quede coherent.&#x20;
 

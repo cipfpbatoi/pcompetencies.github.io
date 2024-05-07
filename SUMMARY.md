@@ -20,5 +20,7 @@
 
 ## Recursos Extra
 
-* [📽️ Vídeos Explicatius](recursos-extra/videos-explicatius.md)
+* [📽️ Vídeos Explicatius](recursos-extra/videos-explicatius/README.md)
+  * [🗃️ Cicles](recursos-extra/videos-explicatius/cicles.md)
+  * [🗂️ Mòduls](recursos-extra/videos-explicatius/moduls.md)
 * [⁉️ QA](recursos-extra/qa.md)
