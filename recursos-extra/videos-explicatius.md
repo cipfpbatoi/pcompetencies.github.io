@@ -15,8 +15,6 @@ description: >-
 Introducció, login i password i ús bàsic de l'aplicació
 {% endembed %}
 
-* **Cicles**
-
 ### Cicles
 
 {% embed url="https://youtu.be/e3JrW39iKig" %}
