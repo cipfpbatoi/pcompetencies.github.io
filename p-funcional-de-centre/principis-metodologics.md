@@ -39,4 +39,4 @@ Les opcions que tenim disponibles segons el nostre son:&#x20;
    2. **Modificar:** Mostra un panell com el de creació, pero amb els camps plens i ens deixa modificar-lo.
    3. **Esborrar**: Borra el Principi Metodològic seleccionat.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Exemple de visualització d'un Principi Metodològic</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Exemple de visualització d'un Principi Metodològic</p></figcaption></figure>

@@ -28,3 +28,5 @@
 ## Desenvolupament Programació
 
 * [🧙‍♀️ Introducció](desenvolupament-programacio/introduccio.md)
+* [🔐 Accés a la Plataforma](desenvolupament-programacio/acces-a-la-plataforma.md)
+* [🗃️ Selecció del Cicle](desenvolupament-programacio/seleccio-del-cicle.md)
