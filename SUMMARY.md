@@ -24,3 +24,7 @@
   * [🗃️ Cicles](recursos-extra/videos-explicatius/cicles.md)
   * [🗂️ Mòduls](recursos-extra/videos-explicatius/moduls.md)
 * [⁉️ QA](recursos-extra/qa.md)
+
+## Desenvolupament Programació
+
+* [🧙‍♀️ Introducció](desenvolupament-programacio/introduccio.md)
