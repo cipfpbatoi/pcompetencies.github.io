@@ -39,11 +39,11 @@ En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https
 
 ## Creació del procés tecnològic del mòdul mitjançant draw.io
 
-A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure [https://www.drawio.com/](https://www.drawio.com/). Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
+A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure ⚠️ **Atenció: Si heu obert l'aplicació des de Microsoft Teams cal obrir aquest enllaç en un navegador perquè si no, no deixa descarregar el diagrama** ⚠️ [https://www.drawio.com/](https://www.drawio.com/). Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
 
 ### Creació del Nou diagrama
 
-Per a la versió on-line, accedim a [app.diagrams.net](https://app.diagrams.net/?src=about) amb el que ens crearà un diagrama nou. El primer que ens pregunta es si volem crear un diagrama nou i després on volem que l'aplicació el dese, seleccionarem disc i li posarem un nom al fitxer:
+Per a la versió on-line, accedim a ⚠️ **Atenció: Si heu obert l'aplicació des de Microsoft Teams cal obrir aquest enllaç en un navegador perquè si no, no deixa descarregar el diagrama** ⚠️ [app.diagrams.net](https://app.diagrams.net/?src=about) amb el que ens crearà un diagrama nou. El primer que ens pregunta es si volem crear un diagrama nou i després on volem que l'aplicació el dese, seleccionarem disc i li posarem un nom al fitxer:
 
 Seleccionem on volem que el dese
 
