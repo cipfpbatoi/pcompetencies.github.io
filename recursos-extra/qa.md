@@ -6,7 +6,7 @@ description: Preguntes i respostes ràpides a temes comuns
 
 ## Com traduir al Valencià els Reials Decrets?
 
-Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, [Microsoft Edge](https://www.microsoft.com/es-es/edge/download), que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.&#x20;
+Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, [Microsoft Edge](https://www.microsoft.com/es-es/edge/download), que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.
 
 Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 
@@ -15,8 +15,8 @@ Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 3. Tornem a la pestanya on es troba l'aplicació de programacions.
 4. Ara hem de fer clic al botó Dividir Pantalla que es troba a la dreta de la **Barra de búsqueda.** Aquest botó te forma de quadrat amb una ralla vertical que el secciona pel mig. _Més endavant adjuntaré les captures del procés_
 5. Com la pestanya en la que estem, es la de les programacions, hem de seleccionar la pestaña amb l'actualització.
-6. Ara ja tenim les dues pestanyes mostrades. Fem clic en qualsevol part de la pestanya de l'actualització i prenem el botó dret del ratolí.&#x20;
-7. Se'ns mostrarà l'opció traduir, si es al Català, fem clic i ja hem acabat. Si no, caldrà fer clic en l'opció per a traduïr i després canviar l'idioma traduït. Encara que el document estiga en Espanyol, l'hem de traduir a l'Espanyol si es l'opció que tenim habilitada, es per a que ens mostre la opció per a canviar-ho.&#x20;
+6. Ara ja tenim les dues pestanyes mostrades. Fem clic en qualsevol part de la pestanya de l'actualització i prenem el botó dret del ratolí.
+7. Se'ns mostrarà l'opció traduir, si es al Català, fem clic i ja hem acabat. Si no, caldrà fer clic en l'opció per a traduïr i després canviar l'idioma traduït. Encara que el document estiga en Espanyol, l'hem de traduir a l'Espanyol si es l'opció que tenim habilitada, es per a que ens mostre la opció per a canviar-ho.
 8. Cal seleccionar la icona que indica que el document ha estat traduït i canviar l'idioma de traducció.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Icona per a dividir la pantalla a Edge</p></figcaption></figure>
@@ -27,25 +27,23 @@ Una volta es mostren els dos documents, hem de fer clic al botó de la dreta din
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Seleccionem traducir al catalán o a l'idioma que ens aparega</p></figcaption></figure>
 
-Si l'opció que tenim es Español, hem de traduir igualment, i fer clic en el botó que es mostrarà dintre de la barra de direccions al final.&#x20;
+Si l'opció que tenim es Español, hem de traduir igualment, i fer clic en el botó que es mostrarà dintre de la barra de direccions al final.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Mitjançant aquest editor, podrem seleccionar un altre idioma i canviarem el document.</p></figcaption></figure>
 
 Ara ja podem treballar amb el document traduït i podrem copiar i enganxar ( sempre comprovant que la traducció estiga ben realitzada) des del Reial Decret cap a l'aplicació
 
-En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf) que es troba a la [secció de vídeos](videos-explicatius/) explicatius cap a l'instant 2:45 podem veure una explicació similar dels passos.&#x20;
+En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https://gvaedu.sharepoint.com/:v:/s/Section\_03012165-C2-APP-PROGRAMACIPERCOMPETNCIES/EQ2xZ-JAOUNMradymVIIv-cBT0e4qSDCJDPJsMsNYe5WPg?e=tQWscf) que es troba a la [secció de vídeos](videos-explicatius/) explicatius cap a l'instant 2:45 podem veure una explicació similar dels passos.
 
-> Cal seleccionar el **punt i a part** de les frases per a qué al mostrar la informació, sempre quede coherent.&#x20;
+> Cal seleccionar el **punt i a part** de les frases per a qué al mostrar la informació, sempre quede coherent.
 
-## Creació del procés tecnològic del mòdul mitjançant draw.io&#x20;
+## Creació del procés tecnològic del mòdul mitjançant draw.io
 
-A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure <a target="_blank" href="https://www.drawio.com/">https://www.drawio.com/</a>. Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
-
-
+A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure [https://www.drawio.com/](https://www.drawio.com/). Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
 
 ### Creació del Nou diagrama
 
-Per a la versió on-line, cal accedir a <a target="_blank" href="https://app.diagrams.net/?src=about">app.diagrams.net</a> amb el que ens crearà un diagrama nou. El primer que ens pregunta es si volem crear un diagrama nou i després on volem que l'aplicació el dese, seleccionarem disc i li posarem un nom al fitxer:&#x20;
+Per a la versió on-line, accedim a [app.diagrams.net](https://app.diagrams.net/?src=about) amb el que ens crearà un diagrama nou. El primer que ens pregunta es si volem crear un diagrama nou i després on volem que l'aplicació el dese, seleccionarem disc i li posarem un nom al fitxer:
 
 Seleccionem on volem que el dese
 
@@ -65,8 +63,6 @@ Posem el nom del diagrama i seleccionem **Diagrama en blanc** o qualsevol que se
 
 Una vegada tenim el diagrama creat, l'hem de configurar per a que les dimensions del llenç del diagrama siguen les mateixes o estiguen dins del que ens demana la aplicació. A continuació s'estableix la relació entre les mesures en pixels que demana l'Aplicació de les programacions i les mesures en polsades (**in**ches en anglés) que es com defineix l'amplada del diagrama (La **primera mesura fa referència a l'amplada i la següent fa referència a l'altura del document**):
 
-
-
 | App Programacions (Pixels) | draw.io (Polsades - in ) |
 | -------------------------- | ------------------------ |
 | 500x500                    | 5x5                      |
@@ -74,7 +70,7 @@ Una vegada tenim el diagrama creat, l'hem de configurar per a que les dimensions
 | 500x700                    | 5x7                      |
 | 500x800                    | 5x8                      |
 
-Com es pot observar, **cada polsada del diagrama equival, a l'hora d'exportar el diagrama a 100 pixels**. Aquesta mesura no es troba a la documentació de [https://www.drawio.com/](https://www.drawio.com/) es un valor que s'ha obtingut empíricament per a realitzar aquest manual.&#x20;
+Com es pot observar, **cada polsada del diagrama equival, a l'hora d'exportar el diagrama a 100 pixels**. Aquesta mesura no es troba a la documentació de [https://www.drawio.com/](https://www.drawio.com/) es un valor que s'ha obtingut empíricament per a realitzar aquest manual.
 
 Les mesures del diagrama es poden canviar una vegada establertes, per tant, podem elegir el tamany més gran de diagrama i una vegada el tinguem, el podem reduir per a que ens quede compacte.
 
@@ -82,7 +78,7 @@ Ara cal que fem clic dalt a la dreta del digrama per a establir la configuració
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Selecció de la configuració del diagrama</p></figcaption></figure>
 
-A continuació hem de seleccionar el Desplegable **Mida de Paper** i fer clic a _**Personalitza**. Se'ns mostrarà un panell que ens permet introduir les mesures en polsades (in de l'anglés inch)._&#x20;
+A continuació hem de seleccionar el Desplegable **Mida de Paper** i fer clic a _**Personalitza**. Se'ns mostrarà un panell que ens permet introduir les mesures en polsades (in de l'anglés inch)._
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +96,7 @@ Per exportar el diagrama cal anar dal a la dreta a la icona de cercle en 3 punts
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Accés al panell d'opcions</p></figcaption></figure>
 
-En aquest cas, hem d'accedir al submenú **Exporta com a** i seleccionar PNG o JPG:&#x20;
+En aquest cas, hem d'accedir al submenú **Exporta com a** i seleccionar PNG o JPG:
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
