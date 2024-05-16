@@ -115,6 +115,6 @@ En aquest cas, hem d'accedir al submenú **Exporta com a** i seleccionar PNG o J
 
 En el cas de seleccionar JPEG hem de assegurar-se que a la opció **Mida** pose **Pàgina** i que l'**Amplada de la Vora** siga 0 i fer clic en **Exporta**
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Opcions per a JPEG</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/exportar_imagen_diagrama.png" alt=""><figcaption><p>Opcions per a JPEG</p></figcaption></figure>
 
 En el cas de que s'elegisca com a format PNG, les opcions son similars però cal centrar-se en les de la Mida i l'Amplada.
