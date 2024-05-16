@@ -6,7 +6,7 @@ description: Preguntes i respostes ràpides a temes comuns
 
 ## Com traduir al Valencià els Reials Decrets?
 
-Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, [Microsoft Edge](https://www.microsoft.com/es-es/edge/download), que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.
+Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, <a href="https://www.microsoft.com/es-es/edge/download" target="_blank">Microsoft Edge</a>, que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.
 
 Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 
