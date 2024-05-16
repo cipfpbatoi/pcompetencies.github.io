@@ -57,3 +57,9 @@ A continuació es mostra com extraure les categories de continguts i els conting
 En la següent imatge podem veure com quedaría el resultat d'aprenentatge amb els criteris d'avaluació i els continguts associats:
 
 ![Resultat d'Aprenentatge amb Criteris d'Avaluació i Continguts](../../md\_media/modul\_ra\_ca\_co\_introduits.png)
+
+## Pujar el procés Tecnològic del Cicle
+
+Per a crear el procés tecnològic del cicle, podem fer servir la ferramenta Visio o draw.io, Aquesta última s'explica a la secció [#creacio-del-proces-tecnologic-del-modul-mitjancant-draw.io](../../recursos-extra/qa.md#creacio-del-proces-tecnologic-del-modul-mitjancant-draw.io "mention")&#x20;
+
+Si necessitem redimensionar la imatge, podem obtenir més informació la secció: [#redimensionar-les-imatges-del-proces-tecnologic](../../recursos-extra/videos-explicatius/moduls.md#redimensionar-les-imatges-del-proces-tecnologic "mention")&#x20;
