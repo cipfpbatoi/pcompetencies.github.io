@@ -6,7 +6,7 @@ description: Preguntes i respostes ràpides a temes comuns
 
 ## Com traduir al Valencià els Reials Decrets?
 
-Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, <a href="https://www.microsoft.com/es-es/edge/download" target="_blank">Microsoft Edge</a>, que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.
+Per a traduir els real decrets i treballar d'una manera fluida per, recomane utilitzar un navegador que incorpore la funcionalitat de traducció de pàgines web. Per exemple, [Microsoft Edge](https://www.microsoft.com/es-es/edge/download), que es multiplataforma, incorpora aquesta funcionalitat i ens permet dividir la pantalla, de forma que podem veure a un costat la pantalla d'edició de les competències i a l'altra, el Reial Decret traduït o el document amb el que estiguem treballant al mateix temps.
 
 Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 
@@ -41,7 +41,7 @@ En el [vídeo sobre com afegir i modificar objectius del cicles formatius](https
 
 A continuació s'explica com realitzar la imatge requerida a l'apartat **Procés Tecnològic** del mòdul utilitzant la ferramenta lliure ⚠️ **Atenció: Si heu obert l'aplicació des de Microsoft Teams cal obrir aquest enllaç en un navegador perquè si no, no deixa descarregar el diagrama** ⚠️ [https://www.drawio.com/](https://www.drawio.com/). Aquesta ferramenta es pot utilitzar bé on-line, bé en format off-line per accedir. Aquest manual s'ha desenvolupat treballant amb la última versió on-line i off-line disponibles a dia 25/04/24.
 
-### Creació del Nou diagrama
+### Selecció de l'orige del diagrama
 
 Per a la versió on-line, accedim a ⚠️ **Atenció: Si heu obert l'aplicació des de Microsoft Teams cal obrir aquest enllaç en un navegador perquè si no, no deixa descarregar el diagrama** ⚠️ [app.diagrams.net](https://app.diagrams.net/?src=about) amb el que ens crearà un diagrama nou. El primer que ens pregunta es si volem crear un diagrama nou i després on volem que l'aplicació el dese, seleccionarem disc i li posarem un nom al fitxer:
 
@@ -49,17 +49,30 @@ Seleccionem on volem que el dese
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Seleció del dispositiu on desarà el diagrama</p></figcaption></figure>
 
-Seleccionem que volem crear un diagrama nou
-
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Selecció de Crear o Obrir</p></figcaption></figure>
+
+Una vegada hem seleccionat `dispositiu` tenim dues opcions per a realitzar el diagrama:
+
+1. Partir d'una plantilla per a treballar ( Mètode més fàcil )
+2. Configurar el nou diagrama des de 0.&#x20;
+
+### Opció 1: Partir d'una plantilla.
+
+Descarreguem la plantilla seguent i la renombrem per a que es corresponga amb el nostre procés tecnológic
+
+{% file src="../.gitbook/assets/PlanillaProcesTecnologic.drawio" %}
+Plantilla que hem d'obrir al Draw.io
+{% endfile %}
+
+A continuació en la aplicació seleccionem `Obre un Diagrama Existent` i comencem a editar el nostre procés tecnològic. Una vegada hem finalitzat, el desem i l'exportem fent el que ens indica a [#exportar-el-diagrama-en-format-imatge](qa.md#exportar-el-diagrama-en-format-imatge "mention"), pugem la imatge generada al mòdul i hauríem finalitzat.&#x20;
+
+### Opció 2: Configuració del Llenç
 
 Posem el nom del diagrama i seleccionem **Diagrama en blanc** o qualsevol que se'ns adapte millor i fem clic en **Crea**
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Selecció d'una plantilla</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Nou diagrama</p></figcaption></figure>
-
-### Configuració del Llenç
 
 Una vegada tenim el diagrama creat, l'hem de configurar per a que les dimensions del llenç del diagrama siguen les mateixes o estiguen dins del que ens demana la aplicació. A continuació s'estableix la relació entre les mesures en pixels que demana l'Aplicació de les programacions i les mesures en polsades (**in**ches en anglés) que es com defineix l'amplada del diagrama (La **primera mesura fa referència a l'amplada i la següent fa referència a l'altura del document**):
 
