@@ -12,6 +12,7 @@
 * [🗂️ Mòduls](normativa/moduls/README.md)
   * [👩‍🏫 Resultats d'aprenentatge](normativa/moduls/resultats-daprenentatge.md)
   * [🎯 Objectius i Competències](normativa/moduls/objectius-i-competencies.md)
+  * [⚒️ Procés Tecnològic](normativa/moduls/proces-tecnologic.md)
 
 ## P FUNCIONAL DE CENTRE
 

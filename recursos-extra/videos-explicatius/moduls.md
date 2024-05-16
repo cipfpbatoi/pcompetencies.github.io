@@ -18,7 +18,7 @@ Video de creació i modificació de mòduls
 Video de com afegir i gestionar els resultats d'aprenentatge associats als mòduls
 {% endembed %}
 
-## Redimensionar les Imatges del Procés Tecnològic
+## Procés Tecnològic - Redimensionar
 
 Podem fer el servir el servei [https://www.iloveimg.com/](https://www.iloveimg.com/) per a redimensionar i retallar les imatges.&#x20;
 
