@@ -14,11 +14,11 @@ A més, cal recordar que han d'estar donats d'alta al cicle formatiu els objecti
 
 Per accedir al **mòdul** del que volem definir els Objectius i les competències, hem d'anar a la llista de mòduls i buscar-lo o bé, al cicle formatiu que vulguem, fer clic en mostrar i ens apareixerà un llistat d'enllaços amb tots els mòduls que formen part del cicle formatiu:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Com es veuen els mòduls que formen part d'un cicle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Com es veuen els mòduls que formen part d'un cicle</p></figcaption></figure>
 
 Seleccionaríem el mòdul del que vulguem introduir els objectius i les competències, per al nostre cas fem clic en: **(0489) - Programació de servicis i procesos** y anem just a la vista del mòdul.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Vista del mòdul</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Vista del mòdul</p></figcaption></figure>
 
 Una vegada estem en aquest panell, fem clic en **Afegir Nou Obj/Comp Cicle** i així anirem al editor per afegir les competències i els objectius per a un cicle en concret:
 
