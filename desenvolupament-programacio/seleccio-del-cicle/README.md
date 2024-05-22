@@ -8,7 +8,7 @@ description: >-
 
 Quan accedim a aquest secció se'ns mostrarà la següent pantalla d'accés:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Selecció de la programació per a començar a fer el desenvolupament.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selecció de la programació per a començar a fer el desenvolupament.</p></figcaption></figure>
 
 Hem de seleccionar per ordre fins que trobem la programació que volem:
 

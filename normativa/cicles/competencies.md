@@ -12,7 +12,7 @@ Una volta hem creat el cicle formatiu i estem visualitzant-lo, hem de fer clic e
 
 Si tenim alguna competència creada, se'ns mostrarà de la següent forma, amb un desplegable que ens permet editar el codi i la descripció així com eliminarla amb la icona de la paperera.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Competències Professionals, Personals i Socials.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Competències Professionals, Personals i Socials.</p></figcaption></figure>
 
 Per afegir-ne una hem de fer clic al botó **+ Afegir un element** i haurem d'omplir els següents camps:
 

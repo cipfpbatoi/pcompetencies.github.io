@@ -6,7 +6,7 @@ description: Elements de l'Aplicació Programació per competències
 
 Quan hem seleccionat el mòdul per al que volem desenvolupar la programació didàctica, se'ns mostra la secció de la contextualització amb els següents elements:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Aplicació de programació per comeptències amb les seccions marcades.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Aplicació de programació per comeptències amb les seccions marcades.</p></figcaption></figure>
 
 1. **Barra de Navegació:** Aquesta barra ens permet veure en quin "punt" de la programació estem treballant
 2. I**dentificació del mòdul:** Ens indica en quin mòdul estem treballant.

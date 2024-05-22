@@ -21,7 +21,7 @@ Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Icona per a dividir la pantalla a Edge</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Hem de seleccionar la pestaña del Reial Decret en la finestra de la Dreta</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Hem de seleccionar la pestaña del Reial Decret en la finestra de la Dreta</p></figcaption></figure>
 
 Una volta es mostren els dos documents, hem de fer clic al botó de la dreta dintre del document del Reial Decret i seleccionar: **Traducir al catalán** i ja hauríem finalitzat. Si no, hem d'executar el pas següent:
 
