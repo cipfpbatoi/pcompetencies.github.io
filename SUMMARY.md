@@ -35,3 +35,4 @@
   * [🧭 1. Contextualització](desenvolupament-programacio/seleccio-del-cicle/1.-contextualitzacio.md)
   * [💪 2. Propostes de Millora](desenvolupament-programacio/seleccio-del-cicle/2.-propostes-de-millora.md)
   * [🧾 3. Situacions d'Aprenentatge](desenvolupament-programacio/seleccio-del-cicle/3.-situacions-daprenentatge.md)
+  * [🎯 4. Comprovar els RA](desenvolupament-programacio/seleccio-del-cicle/4.-comprovar-els-ra.md)
