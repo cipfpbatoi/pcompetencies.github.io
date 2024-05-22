@@ -30,7 +30,7 @@
 
 * [🧙‍♀️ Introducció](desenvolupament-programacio/introduccio.md)
 * [🔐 Accés a la Plataforma](desenvolupament-programacio/acces-a-la-plataforma.md)
-* [🗃️ Selecció de la Programació](desenvolupament-programacio/seleccio-del-cicle/README.md)
+* [🗃️ Fent la Programació](desenvolupament-programacio/seleccio-del-cicle/README.md)
   * [⚙️ Elements](desenvolupament-programacio/seleccio-del-cicle/elements.md)
   * [🧭 1. Contextualització](desenvolupament-programacio/seleccio-del-cicle/1.-contextualitzacio.md)
   * [💪 2. Propostes de Millora](desenvolupament-programacio/seleccio-del-cicle/2.-propostes-de-millora.md)
