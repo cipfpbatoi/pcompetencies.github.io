@@ -36,6 +36,6 @@
   * [💪 2. Propostes de Millora](desenvolupament-programacio/seleccio-del-cicle/2.-propostes-de-millora.md)
   * [🧾 3. Situacions d'Aprenentatge](desenvolupament-programacio/seleccio-del-cicle/3.-situacions-daprenentatge.md)
   * [🎯 4. Comprova els RA](desenvolupament-programacio/seleccio-del-cicle/4.-comprova-els-ra.md)
-  * [👩‍🏫 5. Desenvolupament de les SA](desenvolupament-programacio/seleccio-del-cicle/5.-desenvolupament-de-les-sa.md)
+  * [🧑‍🎓 5. Desenvolupament de les SA](desenvolupament-programacio/seleccio-del-cicle/5.-desenvolupament-de-les-sa.md)
     * [🎯 1. Objectius](desenvolupament-programacio/seleccio-del-cicle/5.-desenvolupament-de-les-sa/1.-objectius.md)
     * [✅ 5.5 Activitats Qualificables](desenvolupament-programacio/seleccio-del-cicle/5.-desenvolupament-de-les-sa/5.5-activitats-qualificables.md)
