@@ -32,7 +32,7 @@ Hem de seleccionar el següent als desplegables:
 
 La contribució als objectius com a les competències del cicle podem trobar-les al Reial Decret que crea la titolació o a les actualitzacions, a l'arpartat **Orientacions Pedagògiques** en el cas d'aquest mòdul en concret tal i com venen a l'actualització serien:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Objecius Generals i Competències de PSP</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Objecius Generals i Competències de PSP</p></figcaption></figure>
 
 Segons anem marcant cadascun dels objectius i de les competències, ens anirà apareixent al quadre i desapareixent de la llista. En el cas que tinguem que eliminar-ne una, hauriem de fer clic en la **x** que està situada al costat de la competència o l'objectiu afegit erròniament per a llevar-lo de la selecció.
 
