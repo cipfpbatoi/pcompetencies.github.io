@@ -19,17 +19,17 @@ Exemple d'utilització: Com afegir un Objectiu a un cicle traduït al Valencià:
 7. Se'ns mostrarà l'opció traduir, si es al Català, fem clic i ja hem acabat. Si no, caldrà fer clic en l'opció per a traduïr i després canviar l'idioma traduït. Encara que el document estiga en Espanyol, l'hem de traduir a l'Espanyol si es l'opció que tenim habilitada, es per a que ens mostre la opció per a canviar-ho.
 8. Cal seleccionar la icona que indica que el document ha estat traduït i canviar l'idioma de traducció.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Icona per a dividir la pantalla a Edge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Icona per a dividir la pantalla a Edge</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Hem de seleccionar la pestaña del Reial Decret en la finestra de la Dreta</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hem de seleccionar la pestaña del Reial Decret en la finestra de la Dreta</p></figcaption></figure>
 
 Una volta es mostren els dos documents, hem de fer clic al botó de la dreta dintre del document del Reial Decret i seleccionar: **Traducir al catalán** i ja hauríem finalitzat. Si no, hem d'executar el pas següent:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Seleccionem traducir al catalán o a l'idioma que ens aparega</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Seleccionem traducir al catalán o a l'idioma que ens aparega</p></figcaption></figure>
 
 Si l'opció que tenim es Español, hem de traduir igualment, i fer clic en el botó que es mostrarà dintre de la barra de direccions al final.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Mitjançant aquest editor, podrem seleccionar un altre idioma i canviarem el document.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Mitjançant aquest editor, podrem seleccionar un altre idioma i canviarem el document.</p></figcaption></figure>
 
 Ara ja podem treballar amb el document traduït i podrem copiar i enganxar ( sempre comprovant que la traducció estiga ben realitzada) des del Reial Decret cap a l'aplicació
 

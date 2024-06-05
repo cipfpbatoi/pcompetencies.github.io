@@ -34,4 +34,4 @@ Una vegada hem creat la programació, l'assistent ens enviarà al pas [1.-contex
 
 Quan seleccionem la programació, si ja existeix, se'ns mostrarà el botó **Editar** i ens portarà a l'asistent
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Selecció de la programació per a començar a fer el desenvolupament.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Selecció de la programació per a començar a fer el desenvolupament.</p></figcaption></figure>
